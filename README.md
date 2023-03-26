@@ -10,6 +10,8 @@ The following code folders are included in this project:
 
 - 'data' contains data to be used for training
 - 'results' contains the results of the experiments
+- 'models' contains the models used for training
+- 'utils' contains the utility (WBF, merging algorithms, etc.)
 
 Models used during the project and available in code:
 
