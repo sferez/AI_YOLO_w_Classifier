@@ -4,6 +4,12 @@
 This project presents a deep-learning pipeline for medical object detection and classification.
 This project is part of the Kaggle competition [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/overview).
 
+## Report
+
+The report is available at Medium: [Article](https://medium.com/python-in-plain-english/reimagining-medical-diagnostics-with-ai-19713a0bc640)
+
+![img.png](https://cdn-images-1.medium.com/v2/resize:fit:800/1*KR-ZEPWYrtU75dKW12_yuQ.png)
+
 ## Structure
 
 The following code folders are included in this project:
